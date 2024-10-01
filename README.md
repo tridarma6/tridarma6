@@ -19,7 +19,7 @@ As a passionate **Frontend Developer** and **Tech Enthusiast**, I'm currently pu
 ## 🔥 Tech Stack
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,flutter,typescript,laravel,c,cpp,java,dart,&perline=5" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,flutter,typescript,laravel,c,cpp,java,dart,php,&perline=5" alt="Tech Stack">
 </p>
 
 ---
