@@ -16,7 +16,7 @@ As a passionate **Frontend Developer** and **Tech Enthusiast**, I'm currently pu
 ## 🔥 Tech Stack
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,flutter,typescript,laravel&perline=5" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,flutter,typescript,laravel,c,cpp,java,dart,&perline=5" alt="Tech Stack">
 </p>
 
 ---
@@ -36,6 +36,7 @@ As a passionate **Frontend Developer** and **Tech Enthusiast**, I'm currently pu
 ## 📊 GitHub Stats
 <p align="start">
   <a href="https://github.com/tridarma6">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=candrawikananta&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tridarma6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tridarma6&layout=compact&theme=radical"/>
   </a>
