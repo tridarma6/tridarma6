@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tridarma6/ProjectTools/main/animation-1727763024760_b923494b.gif" width="500" height="300"/>
+</div>
 
 ---
 
